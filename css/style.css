@@ -1,6 +1,3 @@
-body {
-}
-
 #banner {
   width: 100%;
 }
@@ -44,6 +41,16 @@ ul {
   vertical-align: top;
   width: 20%;
   margin-right: 15%;
+}
+
+ul a {
+  color: #000000;
+  text-decoration: none;
+}
+
+ul a:hover {
+  color: #c78c19;
+  text-decoration: underline;
 }
 
 .imagemBenficios {
