@@ -95,7 +95,9 @@ footer {
 }
 
 form {
-  margin: 40px 0;
+  width: 940px;
+  margin: 0 auto;
+  line-height: 2;
 }
 
 form label,
@@ -135,7 +137,10 @@ form legend {
 }
 
 table {
-  margin: 20px 0 40px;
+  width: auto;
+  margin: 20px auto;
+  line-height: 2;
+  width: 940px;
 }
 
 thead {
@@ -279,6 +284,11 @@ li > a:hover {
     margin: 0 10px 0 10px;
   }
 
+  iframe,
+  .imagem-beneficios {
+    width: 99%;
+  }
+
   h1 {
     text-align: center;
   }
@@ -298,13 +308,18 @@ li > a:hover {
     margin-top: 20px;
   }
 
-  main > .produtos,
-  main > form,
-  main > table {
+  main > .produtos {
     margin: 20px 0 0 12%;
   }
-
+  main > form,
   main > table {
-    margin-bottom: 30px;
+    width: 100%;
+    margin: 20px 0 15px 12%;
   }
+
+  form > .checkbox,
+  main > table {
+    width: 80%;
+  }
+  
 }
