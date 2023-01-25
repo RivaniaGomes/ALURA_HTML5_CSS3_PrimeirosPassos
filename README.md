@@ -5,6 +5,7 @@
 ### 📚 Repositório para estudos de HTML e CSS.
 
 #### Desafio proposto: Criar página Barbearia Alura.
+#### Desafio proposto: Criar página Portifólio Alura.
 
 <div align="center">
    
@@ -24,6 +25,7 @@
 </div>
 
 ## 🖥️ Cursos Realizados
+##### 📌 HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 ##### 📌 HTML5 e CSS3 parte 1: crie uma página da Web
 ##### 📌 HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 ##### 📌 HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
@@ -39,7 +41,8 @@
 ## 📋 Resultado Obtido   
    
 <div align="center">  
-   <img alt="Barbearia Alura" title="#Barbearia Alura" src="https://github.com/RivaniaGomes/ALURA_HTML5_CSS3_PrimeirosPassos/blob/Rivania/images/2023-01-13%2010-48-18.gif" width="80%" height="20%" />
+   <img alt="Barbearia Alura" title="#Barbearia Alura" src="https://github.com/RivaniaGomes/ALURA_HTML5_CSS3_PrimeirosPassos/blob/main/babearia-alura/images/2023-01-13%2010-48-18.gif" width="80%" height="20%" />
+   <img alt="Barbearia Alura" title="#Portifólio Alura" src="https://github.com/RivaniaGomes/ALURA_HTML5_CSS3_PrimeirosPassos/blob/main/portifolio/img/2023-01-25%2009-50-53.gif" width="80%" height="20%" />
  </div> 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&height=120&section=footer"/>
